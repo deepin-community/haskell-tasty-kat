@@ -1,8 +1,10 @@
-haskell-tasty-kat (0.0.3-deepin1) unstable; urgency=medium
+haskell-tasty-kat (0.0.3-11) unstable; urgency=medium
 
-  * Rebuild
+  * Declare compliance with Debian policy 4.6.1
+  * Remove retired developer, Joachim Breitner, from Uploaders.
+  * Sourceful upload for GHC 9.0.2
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:41:34 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Tue, 19 Jul 2022 11:10:12 +0300
 
 haskell-tasty-kat (0.0.3-10) unstable; urgency=medium
 
